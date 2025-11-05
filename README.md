@@ -1,5 +1,4 @@
 # File-Upload-System
-# File Upload System
 
 A full-stack file upload system with REST API, Redis caching, rate limiting, and Docker support.
 
